@@ -1,8 +1,20 @@
 # via-mkp-bestseller
 Notebooks - Backend - mkp-bestseller
 
-Notebooks - Para uma implementação deste MVP é aconselhado que se faça seguindo uma ordem crescente 1,2,3 e assim por diante conforme abaixo.
-Para os notebooks opcionais será registrado a qualificação (opcional na frente do numero de ordem colocado abaixo, ANTES do nome do notebook)
+## (Parte A): Informações para disponibilização do Dashboard 
+
+![image](https://user-images.githubusercontent.com/71042619/120121783-c5498500-c17b-11eb-993b-4a845dec1557.png)
+
+## (Parte B): Informações para disponibilização do Motor de Precificação do Marketplace
+
+![image](https://user-images.githubusercontent.com/71042619/120121936-6df7e480-c17c-11eb-90b7-d49c8a065510.png)https://github.com/gleyver/via-mkp-bestseller-front
+
+
+
+
+
+Notebooks - Para uma implementação deste MVP é aconselhado que se faça seguindo uma ordem dado a seguinte 1,2,3 e assim por diante conforme abaixo.
+Para os notebooks opcionais será registrado a qualificação (opcional na frente do número colocado abaixo, ANTES do nome do notebook)
 
 Cada Notebook terá um descritivo e uma mini explicação. 
 Notebooks:
@@ -12,6 +24,7 @@ Notebooks:
 4) nome: [Compra_produto](https://github.com/ferdancs/via-mkp-bestseller/blob/main/Compra_produto.ipynb);      mini explicação: Faz a junção das informações do volume de vendas e as informações de preços praticadas.
 ### Demais explicações estão contidas dentro dos mesmos.
 
-![image](https://user-images.githubusercontent.com/71042619/120120879-c6c47e80-c176-11eb-8780-26dc10f8c4e1.png)
+
+
 
 ----------
