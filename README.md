@@ -7,7 +7,8 @@ Notebooks - Backend - mkp-bestseller
 
 ## (Parte B): Informações para disponibilização do Motor de Precificação do Marketplace
 
-![image](https://user-images.githubusercontent.com/71042619/120121936-6df7e480-c17c-11eb-90b7-d49c8a065510.png)https://github.com/gleyver/via-mkp-bestseller-front
+![image](https://user-images.githubusercontent.com/71042619/120122481-684fce00-c17f-11eb-954c-d1d582c76cb7.png)
+https://github.com/gleyver/via-mkp-bestseller-front
 
 
 
