@@ -1,6 +1,7 @@
 import csv
 import json
 
+# Alterar os nomes dos aquivos finais dos notebook's
 csvfile = open('C:/Users/2104624262/Downloads/volume_vendas_b5.csv', 'r', encoding='UTF-8')
 jsonfile = open('C:/Users/2104624262/Downloads/volume_vendas_b5.json', 'w')
 
