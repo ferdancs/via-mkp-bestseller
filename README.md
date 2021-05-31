@@ -10,7 +10,7 @@ Notebooks - Backend - mkp-bestseller
 ![image](https://user-images.githubusercontent.com/71042619/120122481-684fce00-c17f-11eb-954c-d1d582c76cb7.png)
 https://github.com/gleyver/via-mkp-bestseller-front
 
-### Programa para conversão do CVS para JSON - vide: [CSV_TO_JSON.py]()
+# Programa para conversão do CVS para JSON - vide: [CSV_TO_JSON.py](https://github.com/ferdancs/via-mkp-bestseller/blob/main/CSV_TO_JSON.py)
 
 
 
