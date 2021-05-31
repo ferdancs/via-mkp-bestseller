@@ -10,7 +10,7 @@ Notebooks - Backend - mkp-bestseller
 ![image](https://user-images.githubusercontent.com/71042619/120122481-684fce00-c17f-11eb-954c-d1d582c76cb7.png)
 https://github.com/gleyver/via-mkp-bestseller-front
 
-
+### Programa para conversão do CVS para JSON - vide: 
 
 
 
@@ -24,6 +24,7 @@ Notebooks:
 3) nome: [Variacao_preco_qtde](https://github.com/ferdancs/via-mkp-bestseller/blob/main/Variacao_preco_qtde.ipynb); mini explicação: Traz a freq(qtd) de vendas pelo preço min E a freq(qtd) de vendas pelo preço max (qtd).
 4) nome: [Compra_produto](https://github.com/ferdancs/via-mkp-bestseller/blob/main/Compra_produto.ipynb);      mini explicação: Faz a junção das informações do volume de vendas e as informações de preços praticadas.
 ### Demais explicações estão contidas dentro dos mesmos.
+
 
 
 
